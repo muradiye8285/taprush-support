@@ -1,62 +1,58 @@
-# Tap-Rush – Privacy Policy
+Tap-Rush – Privacy Policy
 
-**Last updated: November 2025**
+Last updated: November 2025
 
-Thank you for playing Tap-Rush!  
+Thank you for using Tap-Rush!
 This Privacy Policy explains how the app handles your data.
 
----
+1. Information We Collect
 
-## 1. Information We Collect
-Tap-Rush collects only the minimum amount of data required to deliver ads and core app functionality.
+Tap-Rush does not collect, store, or share any personal data.
+The app does not use analytics, advertising services, tracking technologies, or any third-party SDKs that collect information.
 
-### 1.1. Automatically Collected Data
-The following data may be collected by third-party services:
+No device identifiers
 
-#### • Device Identifiers  
-Used by Google AdMob to deliver personalized or non-personalized ads.
+No usage data
 
-#### • Usage Data  
-Basic usage information such as number of sessions, screen views, and interactions.  
-Collected only through AdMob for advertising performance.
+No analytics
 
----
+No tracking
 
-## 2. Third-Party Services
-Tap-Rush uses the following services:
+No advertising data
 
-### • **Google AdMob**  
-Used to display ads.  
-Google may collect device identifiers and usage data to show relevant ads.  
-You can learn more here: https://policies.google.com/technologies/ads
+The app runs entirely on-device and does not transmit any data to us or third parties.
 
----
+2. Third-Party Services
 
-## 3. In-App Purchases
-Tap-Rush includes an optional in-app purchase (“Remove Ads”).  
-All payments are processed securely by Apple — we do not receive or store any payment information.
+Tap-Rush does not use any third-party services that collect data.
 
----
+No AdMob
 
-## 4. Children’s Privacy
-Tap-Rush is not intended for children under 4.  
-We do not knowingly collect personal data from children.
+No tracking SDKs
 
----
+No external analytics tools
 
-## 5. Data Security
-We do not store or manage any personal information on our own servers.  
-All data is handled by Apple or Google according to their policies.
+3. In-App Purchases
 
----
+Tap-Rush does not include any in-app purchases.
 
-## 6. Changes to This Policy
-We may update this Privacy Policy occasionally. Changes will be posted here.
+4. Children’s Privacy
 
----
+The app is safe for users of all ages.
+Because no data is collected, no personal information from children is ever stored or processed.
 
-## 7. Contact Us
-For any questions about this Privacy Policy, please contact:
+5. Data Security
 
-**gokce8535@gmail.com**  
-GitHub Support Page: https://github.com/muradiye8285/taprush-support
+Since Tap-Rush does not collect any data, no personal information is stored or transmitted.
+
+6. Changes to This Policy
+
+If this privacy policy is updated in the future, changes will be posted on the support page below.
+
+7. Contact Us
+
+If you have questions about this Privacy Policy, you can reach us at:
+
+📧 gokce8535@gmail.com
+
+🌐 Support Page: https://github.com/muradiye8285/taprush-support
